@@ -1,12 +1,31 @@
-<img src="assets/hero.svg" alt="semtexbughunt — Security Researcher | Red Team Enthusiast | Offensive Security &amp; Adversary Emulation" width="1200" height="340">
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <a href="https://github.com/semtexbughunt">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=semtexbughunt&theme=tokyonight&headerStyle=mac&typingSpeed=101&hostname=redlab0" alt="semtexbughunt — Security Researcher | Red Team Enthusiast | Offensive Security & Adversary Emulation" />
+  </a>
+</p>
 
-![semtex@mailfence.com](https://img.shields.io/badge/semtex@mailfence.com-contact-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E)
-![red team · adversary emulation](https://img.shields.io/badge/red_team-adversary_emulation-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E)
+<h1 align="center">semtexbughunt</h1>
+
+<h3 align="center">
+  Security Researcher &nbsp;·&nbsp; Red Team Enthusiast <br/>
+  Offensive Security &amp; Adversary Emulation
+</h3>
+
+<p align="center">
+  <a href="mailto:semtex@mailfence.com">
+    <img src="https://img.shields.io/badge/semtex@mailfence.com-contact-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-EDR%20Evasion%20%26%20C2-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Focus: EDR Evasion and C2"/>
+</p>
+
+---
 
 ## 🧠 `whoami`
 
-Offensive security researcher focused on **command-and-control tradecraft**, **Active Directory attack paths**, and **EDR evasion**. I build and dissect adversary emulation tooling in a controlled red team lab — never in production — and document findings so the work outlives the session.
+Offensive security researcher specializing in **C2 tradecraft**, **Active Directory attack paths**, and **EDR evasion**. I build and dissect adversary emulation tooling in controlled lab environments—never in production—and document findings so the work outlives the session.
 
+---
 
 ## 🛠️ Arsenal
 
@@ -29,12 +48,25 @@ Offensive security researcher focused on **command-and-control tradecraft**, **A
 ![Nuclei](https://img.shields.io/badge/Nuclei-FF4500?style=for-the-badge&labelColor=0D1117)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+---
+
 ## 🎯 Proof
 
 - **[JIRA2Shell](https://github.com/semtexbughunt/JIRA2Shell)** — Reverse shell via a JIRA application server.
 
-Connect
--------
-[semtex@mailfence.com](mailto:semtex@mailfence.com) · [semtexbughunt](https://github.com/semtexbughunt)
+---
 
-semtexbughunt · red team lab · 2026
+## 🤝 Connect
+
+<p align="center">
+  <a href="mailto:semtex@mailfence.com">
+    <img src="https://img.shields.io/badge/Email-semtex@mailfence.com-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Email"/>
+  </a>
+  <a href="https://github.com/semtexbughunt">
+    <img src="https://img.shields.io/badge/GitHub-semtexbughunt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"Know the enemy and know yourself; in a hundred battles you will never be in peril." — Sun Tzu</i>
+</p>

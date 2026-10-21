@@ -9,9 +9,26 @@ whoami
 - Expanding adversary emulation tooling; dissecting modern EDR evasion.
 - Break things in controlled labs, never in production; write notes that outlive the session.
 
-Arsenal
--------
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E) ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E) ![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E) ![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E) ![Kali](https://img.shields.io/badge/Kali-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E)
+## 🛠️ Arsenal
+
+**C2 & Post-Exploitation**
+
+![Sliver](https://img.shields.io/badge/Sliver-4B0082?style=for-the-badge&labelColor=0D1117)
+![Mythic](https://img.shields.io/badge/Mythic-8B0000?style=for-the-badge&labelColor=0D1117)
+![Havoc](https://img.shields.io/badge/Havoc-2F4F4F?style=for-the-badge&labelColor=0D1117)
+
+**Active Directory & Internal**
+
+![BloodHound](https://img.shields.io/badge/BloodHound-B22222?style=for-the-badge&labelColor=0D1117)
+![NetExec](https://img.shields.io/badge/NetExec-1E90FF?style=for-the-badge&labelColor=0D1117)
+![Rubeus](https://img.shields.io/badge/Rubeus-6A5ACD?style=for-the-badge&labelColor=0D1117)
+![Impacket](https://img.shields.io/badge/Impacket-228B22?style=for-the-badge&labelColor=0D1117)
+![Responder](https://img.shields.io/badge/Responder-FF8C00?style=for-the-badge&labelColor=0D1117)
+
+**Recon & Web**
+
+![Nuclei](https://img.shields.io/badge/Nuclei-FF4500?style=for-the-badge&labelColor=0D1117)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 Proof
 -----

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+  <style>
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes fadeIn { from{opacity:0} to{opacity:1} }
+    @keyframes slideUp { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:translateY(0)} }
+    .bg{fill:#0D1117}
+    .frame{fill:none;stroke:#FF2E2E;stroke-width:6}
+    .mono{font-family:'Courier New',Courier,monospace}
+    .prompt{fill:#FF2E2E}
+    .handle{font-size:56px;letter-spacing:2px;fill:#E6EDF3}
+    .handle{animation:fadeIn 1s 0.6s both}
+    .tag{font-size:21px;fill:#9AA5B1;animation:fadeIn 1.2s 1.5s both}
+    .cursor{fill:#FF2E2E;animation:blink 1s infinite}
+  </style>
+  <rect class="bg" width="1200" height="340"/>
+  <rect class="frame" x="3" y="3" width="1194" height="334"/>
+  <text x="60" y="148" class="prompt mono" font-size="20">root@kali:~# </text>
+  <text x="218" y="148" class="handle mono" font-size="56">semtexbughunt</text>
+  <rect class="cursor" x="660" y="96" width="14" height="56"/>
+  <text x="60" y="208" class="tag mono" font-size="21">Security Researcher &#183; Red Team Enthusiast &#183; Offensive Security &amp; Adversary Emulation</text>
+</svg>

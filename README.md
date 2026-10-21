@@ -5,8 +5,8 @@
 
 whoami
 ------
-- Offensive security researcher operating from a Kali-based red team lab.
-- Expanding adversary emulation tooling in C and Python; dissecting modern EDR evasion.
+- Offensive security researcher operating from a red team lab.
+- Expanding adversary emulation tooling; dissecting modern EDR evasion.
 - Break things in controlled labs, never in production; write notes that outlive the session.
 
 Arsenal

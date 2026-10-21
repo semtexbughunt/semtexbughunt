@@ -3,11 +3,10 @@
 ![semtex@mailfence.com](https://img.shields.io/badge/semtex@mailfence.com-contact-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E)
 ![red team · adversary emulation](https://img.shields.io/badge/red_team-adversary_emulation-0D1117?style=for-the-badge&amp;labelColor=0D1117&amp;color=FF2E2E)
 
-whoami
-------
-- Offensive security researcher operating from a red team lab.
-- Expanding adversary emulation tooling; dissecting modern EDR evasion.
-- Break things in controlled labs, never in production; write notes that outlive the session.
+## 🧠 `whoami`
+
+Offensive security researcher focused on **command-and-control tradecraft**, **Active Directory attack paths**, and **EDR evasion**. I build and dissect adversary emulation tooling in a controlled red team lab — never in production — and document findings so the work outlives the session.
+
 
 ## 🛠️ Arsenal
 

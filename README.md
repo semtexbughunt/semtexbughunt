@@ -62,9 +62,6 @@ Offensive security researcher specializing in **C2 tradecraft**, **Active Direct
   <a href="mailto:semtex@mailfence.com">
     <img src="https://img.shields.io/badge/Email-semtex@mailfence.com-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Email"/>
   </a>
-  <a href="https://github.com/semtexbughunt">
-    <img src="https://img.shields.io/badge/GitHub-semtexbughunt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 <p align="center">

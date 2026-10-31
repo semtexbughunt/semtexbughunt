@@ -16,7 +16,7 @@
   <a href="mailto:semtex@mailfence.com">
     <img src="https://img.shields.io/badge/semtex@mailfence.com-contact-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-EDR%20Evasion%20%26%20C2-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Focus: EDR Evasion and C2"/>
+  <img src="https://img.shields.io/badge/Focus-Pentesting%20%26%20C2-0D1117?style=for-the-badge&labelColor=0D1117&color=FF2E2E" alt="Focus: Pentesting and C2"/>
 </p>
 
 ---
